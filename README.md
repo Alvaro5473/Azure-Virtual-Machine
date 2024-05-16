@@ -1,4 +1,4 @@
-# Azure-Virtual-Machine
+# Cómo crear, iniciar y conectarse a una máquina virtual de Azure
 - Nos damos de alta en Microsoft Azure
 - Seleccionamos "crear una nueva máquina virtual"
 - Elegimos el lugar donde se ubicará nuestro servidor
