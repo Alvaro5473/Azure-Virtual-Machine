@@ -21,3 +21,7 @@ Instalamos Nginx mediante "sudo apt install nginx"
 Instalamos Nano mediante "sudo apt install nano"
 
 ![image](https://github.com/Alvaro5473/Azure-Virtual-Machine/assets/115600502/4ad7db58-52f0-4868-addf-c5d5e86b1eaf)
+
+Para detener nuestra máquina, seleccionamos "Detener"
+
+![image](https://github.com/Alvaro5473/Azure-Virtual-Machine/assets/115600502/fded6f3c-61d2-4bfa-ba47-520fb64b3610)
